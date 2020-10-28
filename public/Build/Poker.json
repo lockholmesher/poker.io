@@ -1,0 +1,17 @@
+{
+"companyName": "TTC Solutions",
+"productName": "Poker",
+"productVersion": "1.0",
+"dataUrl": "Poker.data.unityweb",
+"wasmCodeUrl": "Poker.wasm.code.unityweb",
+"wasmFrameworkUrl": "Poker.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Poker.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
